@@ -17,6 +17,9 @@ gem 'coffee-rails', '~> 4.1.0'
 # font-awesome gem
 gem "font-awesome-rails"
 
+# heroku gem to fix asset issue?
+gem 'rails_12factor'
+
 # new relic gemz
 gem "newrelic_rpm"
 
