@@ -85,6 +85,5 @@ production:
   <<: *default
   database: real_production1
   username: rmcdonough
-  host: localhost
-  DATABASE_URL="postgres://cgmhpmtohfgamq:yYQSFVpmxYLDj6hCQa5UkvmB9h@ec2-54-163-228-0.compute-1.amazonaws.com:5432/d1o2rg0t3pnt52"
+  host: 
   password:
