@@ -82,4 +82,4 @@ production:
   <<: *default
   database: real_production1
   username: rmcdonough
-  password: <%= ENV['REAL_DATABASE_PASSWORD'] %>
+  password:
